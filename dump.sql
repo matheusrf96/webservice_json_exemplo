@@ -50,3 +50,5 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2018-08-30 22:10:45
+
+-- Obs.: "Hot Fucking Girl Stripping" se refere ao meme e foi gerado pela api do reddit "https://www.reddit.com/r/thanosdidnothingwrong/comments/9bdprt/hot_fucking_girl_stripping/"
