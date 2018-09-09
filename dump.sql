@@ -36,7 +36,7 @@ CREATE TABLE `pessoas` (
 
 LOCK TABLES `pessoas` WRITE;
 /*!40000 ALTER TABLE `pessoas` DISABLE KEYS */;
-INSERT INTO `pessoas` VALUES (1,'Hot Fucking Girl Stripping','1999-06-09'),(2,'Sport Club Corinthians Paulista','1910-09-01');
+INSERT INTO `pessoas` VALUES (1,'Sport Club Corinthians Paulista','1910-09-01'), (2, '???', '2018-08-28');
 /*!40000 ALTER TABLE `pessoas` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -50,5 +50,3 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2018-08-30 22:10:45
-
--- Obs.: "Hot Fucking Girl Stripping" se refere ao meme e foi gerado pela api do reddit "https://www.reddit.com/r/thanosdidnothingwrong/comments/9bdprt/hot_fucking_girl_stripping/"
